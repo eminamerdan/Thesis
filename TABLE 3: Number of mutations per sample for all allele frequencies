@@ -1,0 +1,6 @@
+	        NORMAL SYN	  TUMOR SYN	  NORMAL NONSYN	  TUMOR NONSYN 	  NORMAL ALLBUT	  TUMOR ALLBUT
+MINIMUM	      1535	        1712	        892	           1075	           1248	          1328
+MAXIMUM	      45240	        5241	        2298	         2322	           2382	          2417
+MEDIAN	      3497	        3539	        1779	         1830	           1877	          1935
+AVERAGE	      3402,56	      3435,11	      1735,34	       1804,02	       1831,25	      1908,07
+
