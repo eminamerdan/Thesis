@@ -1,2 +1,2 @@
 # Thesis
-master thesis
+Supplementary materials
